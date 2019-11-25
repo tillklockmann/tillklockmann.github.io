@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
 title: Till Klockmann
-description: What I created online ...
-logo: "me_facing_right.jpg"
+description: my work
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
