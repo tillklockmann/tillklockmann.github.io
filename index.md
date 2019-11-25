@@ -33,6 +33,11 @@ Verwaltungstool 'LernOrga Neu Start'
 
 ---
 
+![My helpful screenshot](/Screenshot_lern_deutsch_sm.png)
+[Webseite 'Lern Deutsch'](http://lern-deutsch.tkm-websolution.de/)
+
+---
+
 ![My helpful screenshot](/Screenshot_Seemannsmission_sm.png)
 [Webseite 'Seemannsmission Altona'](http://seemannsmission-altona.org/)
 
