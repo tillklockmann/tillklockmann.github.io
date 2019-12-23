@@ -1,5 +1,5 @@
 ![Screenshot_Umschulung](/Screenshot_Umschulung_sm.png)
-[Umschulung zum Maler und Lackierer](http://umschulung.kom-bildung.de)
+[Umschulung zum Maler und Lackierer](https://umschulung.kom-bildung.de)
 
 ---
 
