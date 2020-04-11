@@ -34,7 +34,7 @@ Verwaltungstool 'LernOrga Neu Start' (private application)
 ---
 
 ![Screenshot_Seemannsmission](/Screenshot_Seemannsmission_sm.png)
-[Seemannsmission Altona](http://seemannsmission-altona.org/)
+Seemannsmission Altona (retired)
 
 ---
 
