@@ -14,7 +14,7 @@
 ---
 
 ![Screenshot_Neu_Start_St_Pauli](/Screenshot_Neu_Start_St_Pauli_sm.png)
-[Neu Start St Pauli](http://neu-start-st-pauli.de/)
+[Neu Start St Pauli](https://neu-start-st-pauli.de/)
 
 ---
 
