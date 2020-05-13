@@ -8,11 +8,6 @@
 
 ---
 
-![Screenshot_Neustart_blog](/Screenshot_Neustart_blog_sm.png)
-[Neu Start Blog](http://blog.neu-start-st-pauli.de/)
-
----
-
 ![Screenshot_Neu_Start_St_Pauli](/Screenshot_Neu_Start_St_Pauli_sm.png)
 [Neu Start St Pauli](https://neu-start-st-pauli.de/)
 
