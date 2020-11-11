@@ -2,4 +2,6 @@
 layout: default
 title: Home
 ---
-# Till Klockmann
+
+# Hello, my name is Till
+{: .title-home}
