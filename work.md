@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Work
+layout: page
+title: My Work
 ---
 
 

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
 .line {
 	background: #e8e8e8;
 	border: none;
@@ -7,5 +8,17 @@ a {
     color: #2c3e50 !important;
 }
 .title-home {
-    padding: 5rem 0;    
+    padding: 5rem 0;  
+    font-family: "Dancing Script", sans-serif !important;  
+}
+
+.post-title {
+    font-family: "Dancing Script", sans-serif !important;  
+}
+
+.author-avatar  {
+    filter: brightness(1.4);
+}
+.site-footer {
+    border-top: none !important;
 }

@@ -4,4 +4,5 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 title: 'tkm'
 avatar: /me.jpg
-email: tkm.websolution@gmail.com
+location: planet earth
+skin: daylight
