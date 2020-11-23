@@ -9,5 +9,6 @@ I mainly followed the steps on [docs.microsoft.com/wsl](https://docs.microsoft.c
 
 I also used these guides by [Fred Gauthier](https://medium.com/@fred.gauthier.dev/web-development-environment-with-wsl-2-and-docker-for-symfony-5860704e127a) and by[John Woodruff](https://dev.to/johnbwoodruff/far-more-epic-development-environment-using-wsl-2-439g).
 
-I set up for a normal user, and it took me a while to get it going. But it works!
+There is also an excellent video tutorial from Stefan Scherer in German:
+[Docker auf Windows installieren](https://youtu.be/ne_akDsPrHg)
 
