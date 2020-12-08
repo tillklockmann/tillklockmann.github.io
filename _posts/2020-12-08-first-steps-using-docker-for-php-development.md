@@ -12,3 +12,6 @@ Instead of creating a Dockerfile and building your own image based on an officia
 docker run -d -p 8080:80 --name my-apache-php-app -v "$PWD":/var/www/html php:7.2-apache
 ```
 If you execute this command in the root directory of your php project assuming your index.php is located here, you should be able to open your browser on localhost:8080 and see the ouput of your index.php. Any changes in your root directory should also be reflected, due to the ```-v``` volume option.
+
+See my example with a Dockerfile to get the same effect
+[here](https://github.com/tillklockmann/php7.1-apache).
