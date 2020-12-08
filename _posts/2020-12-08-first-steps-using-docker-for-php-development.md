@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "First steps using Docker container for PHP development"
 ---
 
 Using docker and its container seems easy to start with but hard if it comes to actually setting up the developing you environment you really want.
