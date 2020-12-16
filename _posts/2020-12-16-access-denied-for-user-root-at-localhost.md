@@ -78,5 +78,7 @@ DB_DATABASE=blog_project
 DB_USERNAME=root
 DB_PASSWORD=
 ```
-All I wanted was to play around with the laravel application and not bother about these things. OMG why are computers so complicated? :-P
+All I wanted was to play around with the laravel application and not bother about these things. OMG why are computers so complicated? 
+
+:sob:
 
