@@ -3,7 +3,7 @@ layout: post
 title: "PHP anonymous classes use case: testing abstract classes"
 ---
 
-I currently wanted to test an abstract class that already came with some written out functions. 
+I recently wanted to test an abstract class that already came with some written out functions. 
 
 I ended up with a setup where I had an anonymous class extend the abstract class. 
 ```php
