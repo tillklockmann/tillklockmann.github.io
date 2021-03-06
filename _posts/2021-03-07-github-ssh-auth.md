@@ -11,4 +11,13 @@ Github recently informed me after I had pushed into my repo that:
 
 So, my solution was to use SSH keys. I managed by following [this](https://www.freecodecamp.org/news/git-ssh-how-to/) guide.
 
+To set up or change your git remote urls from https to ssh:
 
+```bash
+git remote set-url origin <your-ssh-repo-url-name>
+```
+To check your remote urls: 
+
+```bash
+git remote -v
+```
